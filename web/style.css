@@ -1,0 +1,14 @@
+table td th {
+    border: black solid 1px;
+}
+
+div {
+    width: 1400px;
+    height: auto;
+    margin: 20px auto;
+}
+form {
+    width: 1400px;
+    height: auto;
+    text-align: center;
+}
